@@ -175,7 +175,7 @@ python scripts/create_visualizations.py
 
 | Team Member | Responsibilities |
 |-------------|-----------------|
-| [Your Name] | • BERT model implementation (NER & RE)<br>• GPT-Neo model implementation (NER & RE)<br>• Hyperparameter optimization with Optuna<br>• Results analysis and visualization<br>• Documentation and code cleanup<br>• Paper writing |
+| Nikola Milosavljevic | • BERT model implementation (NER & RE)<br>• GPT-Neo model implementation (NER & RE)<br>• Hyperparameter optimization with Optuna<br>• Results analysis and visualization<br>• Documentation and code cleanup<br>• Paper writing |
 
 ## References
 
@@ -185,10 +185,6 @@ python scripts/create_visualizations.py
 4. LoRA: Hu et al. (2021)
 5. Optuna: Akiba et al. (2019)
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 
-For questions or issues, please contact [your-email@university.edu]
+For questions or issues, please contact nikola.milosavljevic@student.unisg.ch
