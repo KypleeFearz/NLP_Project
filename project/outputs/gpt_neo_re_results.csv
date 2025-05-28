@@ -1,0 +1,5 @@
+Method,F1,Precision,Recall,Accuracy
+Baseline,29.94,26.64,35.48,35.48
+Full Ft,33.54,26.6,45.71,45.71
+Lora,29.23,25.46,34.32,34.32
+Partial Freeze,5.71,31.04,4.46,4.46

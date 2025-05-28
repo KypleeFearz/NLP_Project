@@ -1,0 +1,17 @@
+{
+  "task": "Relation Extraction",
+  "model": "GPT-Neo 125M",
+  "dataset": "DocIE",
+  "best_method": "Full Ft",
+  "best_f1": 33.54,
+  "best_accuracy": 45.71,
+  "training_examples": 1222,
+  "dev_examples": 606,
+  "num_classes": 76,
+  "hyperparameter_trials": 8,
+  "fine_tuning_methods": [
+    "Full Fine-Tuning",
+    "LoRA",
+    "Partial Freezing"
+  ]
+}

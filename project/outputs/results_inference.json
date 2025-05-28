@@ -1,0 +1,3981 @@
+{
+  "0": {
+    "entities": [
+      {
+        "entity_group": "MISC",
+        "score": 0.7697631120681763,
+        "word": "affect infusion model",
+        "start": 4,
+        "end": 25
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4834333062171936,
+        "word": "aim",
+        "start": 27,
+        "end": 30
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5025057792663574,
+        "word": "psychology",
+        "start": 77,
+        "end": 87
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.5961453318595886,
+        "word": "social psychologist",
+        "start": 102,
+        "end": 121
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.8132946491241455,
+        "word": "joseph paul forgas",
+        "start": 122,
+        "end": 140
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6856169700622559,
+        "word": "early 1990s",
+        "start": 148,
+        "end": 159
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5689058899879456,
+        "word": "##fusion",
+        "start": 565,
+        "end": 571
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.3276459276676178,
+        "word": "hours",
+        "start": 1257,
+        "end": 1262
+      }
+    ],
+    "triples": []
+  },
+  "1": {
+    "entities": [
+      {
+        "entity_group": "MISC",
+        "score": 0.4085157811641693,
+        "word": "behavioral change support system (",
+        "start": 2,
+        "end": 36
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3926510214805603,
+        "word": "bcss",
+        "start": 36,
+        "end": 40
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3732813894748688,
+        "word": "information",
+        "start": 49,
+        "end": 60
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.5754318237304688,
+        "word": "and communications technology (",
+        "start": 61,
+        "end": 92
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.1695888191461563,
+        "word": "ict",
+        "start": 92,
+        "end": 95
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.568386971950531,
+        "word": ")",
+        "start": 95,
+        "end": 96
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.45100411772727966,
+        "word": "tool",
+        "start": 97,
+        "end": 101
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5748643279075623,
+        "word": "behavioral change theories",
+        "start": 310,
+        "end": 336
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.49756747484207153,
+        "word": "theory of",
+        "start": 385,
+        "end": 394
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5623122453689575,
+        "word": "planned behavior",
+        "start": 395,
+        "end": 411
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3727206587791443,
+        "word": "fogg behaviour model (",
+        "start": 592,
+        "end": 614
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3342893123626709,
+        "word": "fbm )",
+        "start": 614,
+        "end": 618
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6285568475723267,
+        "word": "late 2017",
+        "start": 845,
+        "end": 854
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5370307564735413,
+        "word": "social learning theory (",
+        "start": 1104,
+        "end": 1128
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4688856601715088,
+        "word": "slt )",
+        "start": 1128,
+        "end": 1132
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6684445142745972,
+        "word": "behavior",
+        "start": 1227,
+        "end": 1235
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5572509169578552,
+        "word": "theory of reasoned action",
+        "start": 1254,
+        "end": 1279
+      }
+    ],
+    "triples": []
+  },
+  "2": {
+    "entities": [
+      {
+        "entity_group": "MISC",
+        "score": 0.4645790159702301,
+        "word": "##e",
+        "start": 4,
+        "end": 5
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5785783529281616,
+        "word": "binge eating disorder",
+        "start": 151,
+        "end": 172
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6723776459693909,
+        "word": "bulimia nervosa",
+        "start": 177,
+        "end": 192
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4097813367843628,
+        "word": "dsm - 5",
+        "start": 424,
+        "end": 429
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.7041170001029968,
+        "word": "##e eating disorder",
+        "start": 478,
+        "end": 495
+      }
+    ],
+    "triples": []
+  },
+  "3": {
+    "entities": [
+      {
+        "entity_group": "MISC",
+        "score": 0.4190049469470978,
+        "word": "creative",
+        "start": 2,
+        "end": 10
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.5911177396774292,
+        "word": "hacker george hotz",
+        "start": 271,
+        "end": 289
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.29048001766204834,
+        "word": "' s",
+        "start": 334,
+        "end": 336
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.2694263160228729,
+        "word": "3",
+        "start": 349,
+        "end": 350
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.7364747524261475,
+        "word": "jose avila",
+        "start": 389,
+        "end": 399
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5600226521492004,
+        "word": "##ex",
+        "start": 408,
+        "end": 410
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.3347336947917938,
+        "word": "federal",
+        "start": 456,
+        "end": 463
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4482699930667877,
+        "word": "express boxes",
+        "start": 464,
+        "end": 477
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.7527912259101868,
+        "word": "jim hill",
+        "start": 479,
+        "end": 487
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4730827212333679,
+        "word": "disney fan",
+        "start": 499,
+        "end": 509
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.5852947235107422,
+        "word": "2005",
+        "start": 582,
+        "end": 586
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.15864577889442444,
+        "word": "economist",
+        "start": 592,
+        "end": 601
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5830114483833313,
+        "word": "consumer",
+        "start": 681,
+        "end": 689
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.6441738605499268,
+        "word": "hotz",
+        "start": 909,
+        "end": 913
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.3558027148246765,
+        "word": "avila",
+        "start": 915,
+        "end": 920
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.6717557907104492,
+        "word": "berthon,",
+        "start": 1063,
+        "end": 1071
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.434920072555542,
+        "word": "al",
+        "start": 1075,
+        "end": 1077
+      }
+    ],
+    "triples": []
+  },
+  "4": {
+    "entities": [
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.2140180766582489,
+        "word": "about five",
+        "start": 154,
+        "end": 164
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.23228996992111206,
+        "word": "eight",
+        "start": 266,
+        "end": 271
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.149847149848938,
+        "word": "ten",
+        "start": 276,
+        "end": 279
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.22738511860370636,
+        "word": "232",
+        "start": 1316,
+        "end": 1319
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.25998762249946594,
+        "word": "66, 000",
+        "start": 1336,
+        "end": 1342
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.4100503921508789,
+        "word": "ten years between",
+        "start": 1359,
+        "end": 1376
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.4969414174556732,
+        "word": "1992 and 2002",
+        "start": 1377,
+        "end": 1390
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.1712147295475006,
+        "word": "ten",
+        "start": 1565,
+        "end": 1568
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5043206810951233,
+        "word": "doorbuster sales",
+        "start": 1597,
+        "end": 1613
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.2003808468580246,
+        "word": "three or four",
+        "start": 2070,
+        "end": 2083
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.2057674676179886,
+        "word": "five",
+        "start": 2151,
+        "end": 2155
+      }
+    ],
+    "triples": []
+  },
+  "5": {
+    "entities": [
+      {
+        "entity_group": "MISC",
+        "score": 0.5274117588996887,
+        "word": "deviance regulation theory (",
+        "start": 0,
+        "end": 28
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4477803111076355,
+        "word": "drt",
+        "start": 28,
+        "end": 31
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.701313853263855,
+        "word": "hart blanton",
+        "start": 319,
+        "end": 331
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.4447490870952606,
+        "word": "university of albany",
+        "start": 339,
+        "end": 359
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7356529831886292,
+        "word": "2003",
+        "start": 363,
+        "end": 367
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6258387565612793,
+        "word": "deviance regulation theory (",
+        "start": 660,
+        "end": 688
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.48146820068359375,
+        "word": "drt )",
+        "start": 688,
+        "end": 692
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6750982403755188,
+        "word": "causal at",
+        "start": 722,
+        "end": 731
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.7529007196426392,
+        "word": "deviance regulation theory",
+        "start": 1042,
+        "end": 1068
+      }
+    ],
+    "triples": []
+  },
+  "6": {
+    "entities": [
+      {
+        "entity_group": "MISC",
+        "score": 0.6633493900299072,
+        "word": "discrete trial training",
+        "start": 0,
+        "end": 23
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5427725911140442,
+        "word": "dtt )",
+        "start": 25,
+        "end": 29
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.43099477887153625,
+        "word": "practitioners of applied behavior analysis (",
+        "start": 53,
+        "end": 97
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.3488703966140747,
+        "word": "aba )",
+        "start": 97,
+        "end": 101
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.705224335193634,
+        "word": "ivar lovaas",
+        "start": 124,
+        "end": 135
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.39295494556427,
+        "word": "at",
+        "start": 136,
+        "end": 138
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.6140927076339722,
+        "word": "university of california, los angeles ( ucla )",
+        "start": 143,
+        "end": 187
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.7705039381980896,
+        "word": "early intensive behavioral intervention",
+        "start": 305,
+        "end": 344
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.2139330357313156,
+        "word": "25 : 40",
+        "start": 362,
+        "end": 367
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.206694558262825,
+        "word": "hours",
+        "start": 368,
+        "end": 373
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.4789440333843231,
+        "word": "lovaas",
+        "start": 634,
+        "end": 640
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.3235480785369873,
+        "word": "/ ucla",
+        "start": 640,
+        "end": 645
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5458240509033203,
+        "word": "model",
+        "start": 646,
+        "end": 651
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.7959826588630676,
+        "word": "rapid motor imitation",
+        "start": 655,
+        "end": 676
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5779277086257935,
+        "word": "##dent",
+        "start": 683,
+        "end": 687
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.7610371708869934,
+        "word": "discrete trial training",
+        "start": 754,
+        "end": 777
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.7129622101783752,
+        "word": "##t",
+        "start": 781,
+        "end": 782
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.19680587947368622,
+        "word": "six",
+        "start": 1431,
+        "end": 1434
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.29806798696517944,
+        "word": "second",
+        "start": 1968,
+        "end": 1974
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.7578927278518677,
+        "word": "expressive language",
+        "start": 1994,
+        "end": 2013
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.27146396040916443,
+        "word": "third",
+        "start": 2050,
+        "end": 2055
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.2203192412853241,
+        "word": "seven days",
+        "start": 2475,
+        "end": 2485
+      }
+    ],
+    "triples": []
+  },
+  "7": {
+    "entities": [
+      {
+        "entity_group": "MISC",
+        "score": 0.5312491655349731,
+        "word": "fight",
+        "start": 4,
+        "end": 9
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.39440077543258667,
+        "word": "flight",
+        "start": 13,
+        "end": 19
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6028822064399719,
+        "word": "fight - flight - freeze - or - fawn",
+        "start": 27,
+        "end": 54
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.7313613891601562,
+        "word": "hyperarousal",
+        "start": 68,
+        "end": 80
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.7722374796867371,
+        "word": "acute stress response",
+        "start": 88,
+        "end": 109
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.7698943614959717,
+        "word": "walter bradford cannon",
+        "start": 250,
+        "end": 272
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.5728964805603027,
+        "word": "1915",
+        "start": 276,
+        "end": 280
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.48955070972442627,
+        "word": "sympathetic nervous system",
+        "start": 362,
+        "end": 388
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.694092333316803,
+        "word": "##renal medulla",
+        "start": 461,
+        "end": 474
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5786159634590149,
+        "word": "nor",
+        "start": 563,
+        "end": 566
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6173248291015625,
+        "word": "estrogen",
+        "start": 608,
+        "end": 616
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.561728298664093,
+        "word": "testosterone",
+        "start": 618,
+        "end": 630
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.729401707649231,
+        "word": "##teocalcin",
+        "start": 760,
+        "end": 769
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5468499064445496,
+        "word": "flight",
+        "start": 986,
+        "end": 992
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5126107931137085,
+        "word": "fawn",
+        "start": 1201,
+        "end": 1205
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6186535954475403,
+        "word": "sympathetic nervous system",
+        "start": 1791,
+        "end": 1817
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5432814359664917,
+        "word": "nervous",
+        "start": 2041,
+        "end": 2048
+      }
+    ],
+    "triples": []
+  },
+  "8": {
+    "entities": [
+      {
+        "entity_group": "MISC",
+        "score": 0.6983017921447754,
+        "word": "oblique strategies",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.23454177379608154,
+        "word": "over",
+        "start": 30,
+        "end": 34
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.21337087452411652,
+        "word": "one hundred",
+        "start": 35,
+        "end": 46
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5046200156211853,
+        "word": "##while",
+        "start": 52,
+        "end": 57
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6419278383255005,
+        "word": "##s",
+        "start": 65,
+        "end": 66
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.5881113409996033,
+        "word": "musician / artist",
+        "start": 135,
+        "end": 150
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.7233003973960876,
+        "word": "brian eno",
+        "start": 151,
+        "end": 160
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.47303688526153564,
+        "word": "multimedia artist",
+        "start": 165,
+        "end": 182
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.7556391954421997,
+        "word": "peter schmidt",
+        "start": 183,
+        "end": 196
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6806982755661011,
+        "word": "1975",
+        "start": 217,
+        "end": 221
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.142691507935524,
+        "word": "7",
+        "start": 266,
+        "end": 267
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.18898384273052216,
+        "word": "- 9",
+        "start": 270,
+        "end": 272
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.21247762441635132,
+        "word": "2. 8",
+        "start": 285,
+        "end": 288
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.18807843327522278,
+        "word": "3.",
+        "start": 294,
+        "end": 296
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7039027810096741,
+        "word": "1970",
+        "start": 482,
+        "end": 486
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.6864058971405029,
+        "word": "peter schmidt",
+        "start": 488,
+        "end": 501
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4595258831977844,
+        "word": "thoughts behind",
+        "start": 515,
+        "end": 530
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.18337388336658478,
+        "word": "55",
+        "start": 563,
+        "end": 565
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6814062595367432,
+        "word": "late 1960s",
+        "start": 721,
+        "end": 731
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5007670521736145,
+        "word": "oblique strategies",
+        "start": 853,
+        "end": 871
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7360468506813049,
+        "word": "1974",
+        "start": 876,
+        "end": 880
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6604373455047607,
+        "word": "late 1974",
+        "start": 951,
+        "end": 960
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6635457873344421,
+        "word": "early 1980",
+        "start": 1140,
+        "end": 1150
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.5439797043800354,
+        "word": "sixteen years later",
+        "start": 1213,
+        "end": 1232
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.2625274360179901,
+        "word": "software",
+        "start": 1233,
+        "end": 1241
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.5661145448684692,
+        "word": "pioneer",
+        "start": 1242,
+        "end": 1249
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.6882084012031555,
+        "word": "peter norton",
+        "start": 1250,
+        "end": 1262
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5290258526802063,
+        "word": "gifts",
+        "start": 1325,
+        "end": 1330
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6866342425346375,
+        "word": "1996",
+        "start": 1527,
+        "end": 1531
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.1990775763988495,
+        "word": "year",
+        "start": 1539,
+        "end": 1543
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6791298985481262,
+        "word": "2001",
+        "start": 1620,
+        "end": 1624
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6298133730888367,
+        "word": "oblique strategies",
+        "start": 1662,
+        "end": 1680
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.5980217456817627,
+        "word": "may 2013",
+        "start": 1758,
+        "end": 1766
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.19871264696121216,
+        "word": "500",
+        "start": 1788,
+        "end": 1791
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4816609025001526,
+        "word": "strategies",
+        "start": 1862,
+        "end": 1872
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.5686511993408203,
+        "word": "musician and educator",
+        "start": 2045,
+        "end": 2066
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.7837700247764587,
+        "word": "gregory alan taylor",
+        "start": 2067,
+        "end": 2086
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.439974844455719,
+        "word": "behind",
+        "start": 2124,
+        "end": 2130
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.2703445255756378,
+        "word": "mind",
+        "start": 2162,
+        "end": 2166
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.1761762946844101,
+        "word": "##made",
+        "start": 2166,
+        "end": 2170
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.21541740000247955,
+        "word": "books",
+        "start": 2171,
+        "end": 2176
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7312708497047424,
+        "word": "2012",
+        "start": 2180,
+        "end": 2184
+      }
+    ],
+    "triples": []
+  },
+  "9": {
+    "entities": [
+      {
+        "entity_group": "DATE",
+        "score": 0.6838594079017639,
+        "word": "1995",
+        "start": 774,
+        "end": 778
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.3416133522987366,
+        "word": "nbc sitcom seinfeld",
+        "start": 794,
+        "end": 813
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3156769573688507,
+        "word": "label maker",
+        "start": 820,
+        "end": 831
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.389037549495697,
+        "word": "elaine",
+        "start": 920,
+        "end": 926
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.736226499080658,
+        "word": "dr. tim whatley",
+        "start": 933,
+        "end": 948
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.7912909388542175,
+        "word": "jerry seinfeld",
+        "start": 977,
+        "end": 991
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4850200414657593,
+        "word": "maker",
+        "start": 1000,
+        "end": 1005
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.4717012643814087,
+        "word": "##ley",
+        "start": 1039,
+        "end": 1042
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.4281453788280487,
+        "word": "elaine",
+        "start": 1046,
+        "end": 1052
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.4874778687953949,
+        "word": "##ley",
+        "start": 1059,
+        "end": 1062
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6023744940757751,
+        "word": "indian giver",
+        "start": 1226,
+        "end": 1238
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6422100067138672,
+        "word": "white elephant gift exchanges",
+        "start": 1565,
+        "end": 1594
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.662524402141571,
+        "word": "yankee swap events",
+        "start": 1598,
+        "end": 1616
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.7326709032058716,
+        "word": "white elephant gift exchanges",
+        "start": 2097,
+        "end": 2126
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.4189067780971527,
+        "word": "year to year",
+        "start": 2164,
+        "end": 2176
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.459783673286438,
+        "word": "oprah",
+        "start": 2225,
+        "end": 2230
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5938332080841064,
+        "word": "recession - themed",
+        "start": 2260,
+        "end": 2276
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.34220945835113525,
+        "word": "2008",
+        "start": 2277,
+        "end": 2281
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.4788045585155487,
+        "word": "fairleigh dickinson",
+        "start": 2293,
+        "end": 2312
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.40814992785453796,
+        "word": "university publicmind",
+        "start": 2313,
+        "end": 2334
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.3305286765098572,
+        "word": "poll",
+        "start": 2335,
+        "end": 2339
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6649036407470703,
+        "word": "december 2010",
+        "start": 2343,
+        "end": 2356
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.8499727845191956,
+        "word": "burcak ertimur",
+        "start": 2396,
+        "end": 2410
+      }
+    ],
+    "triples": []
+  },
+  "10": {
+    "entities": [
+      {
+        "entity_group": "MISC",
+        "score": 0.5502484440803528,
+        "word": "stockholm syndrome",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6090806722640991,
+        "word": "stockholm syndrome",
+        "start": 147,
+        "end": 165
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5259918570518494,
+        "word": "stockholm syndrome",
+        "start": 439,
+        "end": 457
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.2819015085697174,
+        "word": "diagnostic",
+        "start": 489,
+        "end": 499
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.46998119354248047,
+        "word": "and statistical manual of mental disorders ( dsm",
+        "start": 500,
+        "end": 547
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.2380472868680954,
+        "word": "united states",
+        "start": 628,
+        "end": 641
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7781440019607544,
+        "word": "1973",
+        "start": 712,
+        "end": 716
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.861719012260437,
+        "word": "jan - erik olsson",
+        "start": 718,
+        "end": 733
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.21978585422039032,
+        "word": "four",
+        "start": 761,
+        "end": 765
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.23602008819580078,
+        "word": "k",
+        "start": 805,
+        "end": 806
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.29784268140792847,
+        "word": "##reditbanken",
+        "start": 806,
+        "end": 817
+      },
+      {
+        "entity_group": "GPE",
+        "score": 0.16037000715732574,
+        "word": "sweden",
+        "start": 858,
+        "end": 864
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.8403201699256897,
+        "word": "clark olofsson",
+        "start": 956,
+        "end": 970
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.46007806062698364,
+        "word": "six days",
+        "start": 1021,
+        "end": 1029
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6427767276763916,
+        "word": "23 : 28 august",
+        "start": 1031,
+        "end": 1043
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.8251491785049438,
+        "word": "nils bejerot",
+        "start": 1218,
+        "end": 1230
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.18743851780891418,
+        "word": "swedish",
+        "start": 1234,
+        "end": 1241
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.29839715361595154,
+        "word": "cr",
+        "start": 1242,
+        "end": 1244
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.2710866332054138,
+        "word": "##no",
+        "start": 1247,
+        "end": 1249
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.20023906230926514,
+        "word": "stockholm",
+        "start": 1302,
+        "end": 1311
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6217094659805298,
+        "word": "1973",
+        "start": 1389,
+        "end": 1393
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6376253366470337,
+        "word": "robbery",
+        "start": 1399,
+        "end": 1406
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.2799127697944641,
+        "word": "nor",
+        "start": 1650,
+        "end": 1653
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.38883456587791443,
+        "word": "##rma",
+        "start": 1653,
+        "end": 1656
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.32322293519973755,
+        "word": "##lm",
+        "start": 1656,
+        "end": 1658
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.46239838004112244,
+        "word": "##storgssyndromet",
+        "start": 1658,
+        "end": 1673
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5074039101600647,
+        "word": "norrmalmstorg square",
+        "start": 1681,
+        "end": 1701
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.47669434547424316,
+        "word": "norrmalmstorg syndrome",
+        "start": 1756,
+        "end": 1778
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.500177800655365,
+        "word": "stockholm syndrome",
+        "start": 1821,
+        "end": 1839
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.3831169307231903,
+        "word": "psychiatrist",
+        "start": 1870,
+        "end": 1882
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.7668113112449646,
+        "word": "frank ochberg",
+        "start": 1883,
+        "end": 1896
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.7630722522735596,
+        "word": "kristin enmark",
+        "start": 1967,
+        "end": 1981
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.4919683337211609,
+        "word": "be",
+        "start": 2367,
+        "end": 2369
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.5868991613388062,
+        "word": "##ot",
+        "start": 2372,
+        "end": 2374
+      }
+    ],
+    "triples": []
+  },
+  "11": {
+    "entities": [
+      {
+        "entity_group": "MISC",
+        "score": 0.7204998731613159,
+        "word": "lacrimal glands",
+        "start": 41,
+        "end": 56
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.48912203311920166,
+        "word": "gland",
+        "start": 63,
+        "end": 68
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.24106863141059875,
+        "word": "three",
+        "start": 730,
+        "end": 735
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6124184727668762,
+        "word": "onion fumes",
+        "start": 1033,
+        "end": 1044
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4609327018260956,
+        "word": "ad",
+        "start": 1139,
+        "end": 1141
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5296249389648438,
+        "word": "##oco",
+        "start": 1144,
+        "end": 1147
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5522404909133911,
+        "word": "##cot",
+        "start": 1150,
+        "end": 1153
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5186063647270203,
+        "word": "hormone",
+        "start": 1159,
+        "end": 1166
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5823559761047363,
+        "word": "leucine enkephalin",
+        "start": 1171,
+        "end": 1189
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.648585319519043,
+        "word": "glands",
+        "start": 1322,
+        "end": 1328
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5403262376785278,
+        "word": "##al fluid",
+        "start": 1343,
+        "end": 1351
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5119696259498596,
+        "word": "##al canal",
+        "start": 1732,
+        "end": 1740
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.7125334739685059,
+        "word": "##al punctum",
+        "start": 1814,
+        "end": 1824
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4123040437698364,
+        "word": "lac",
+        "start": 1865,
+        "end": 1868
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6587536931037903,
+        "word": "##olacrimal duct",
+        "start": 1897,
+        "end": 1911
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5027671456336975,
+        "word": "cavity",
+        "start": 1940,
+        "end": 1946
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3690335750579834,
+        "word": "cats",
+        "start": 2176,
+        "end": 2180
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.419647753238678,
+        "word": "camels",
+        "start": 2182,
+        "end": 2188
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4949290156364441,
+        "word": "polar bears",
+        "start": 2190,
+        "end": 2201
+      }
+    ],
+    "triples": []
+  },
+  "12": {
+    "entities": [
+      {
+        "entity_group": "MISC",
+        "score": 0.6689730882644653,
+        "word": "family conflict",
+        "start": 5,
+        "end": 20
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6861948370933533,
+        "word": "conflict",
+        "start": 376,
+        "end": 384
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.7168850898742676,
+        "word": "conflict",
+        "start": 556,
+        "end": 564
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.740551233291626,
+        "word": "late 19th century",
+        "start": 590,
+        "end": 607
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.679847240447998,
+        "word": "boundary theory and",
+        "start": 811,
+        "end": 830
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.7035332918167114,
+        "word": "border theory",
+        "start": 831,
+        "end": 844
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6571416854858398,
+        "word": "conflict",
+        "start": 891,
+        "end": 899
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6296322345733643,
+        "word": "theory",
+        "start": 910,
+        "end": 916
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6193216443061829,
+        "word": "border theory",
+        "start": 1285,
+        "end": 1298
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6872072219848633,
+        "word": "border theory",
+        "start": 1373,
+        "end": 1386
+      }
+    ],
+    "triples": []
+  },
+  "13": {
+    "entities": [
+      {
+        "entity_group": "MISC",
+        "score": 0.6074706315994263,
+        "word": "anti - social media bill",
+        "start": 0,
+        "end": 22
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.5489905476570129,
+        "word": "senate of the federal republic of nigeria",
+        "start": 45,
+        "end": 86
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7372041344642639,
+        "word": "5 november 2019",
+        "start": 90,
+        "end": 105
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.522492527961731,
+        "word": "##s",
+        "start": 278,
+        "end": 279
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.36054185032844543,
+        "word": "2019",
+        "start": 285,
+        "end": 289
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.31258922815322876,
+        "word": "senator",
+        "start": 311,
+        "end": 318
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.6025673151016235,
+        "word": "mohammed sani musa",
+        "start": 319,
+        "end": 337
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.22245776653289795,
+        "word": "northern nigeria",
+        "start": 368,
+        "end": 384
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.43349766731262207,
+        "word": "nigeria senate",
+        "start": 443,
+        "end": 457
+      },
+      {
+        "entity_group": "GPE",
+        "score": 0.2976357936859131,
+        "word": "singapore",
+        "start": 598,
+        "end": 607
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.24550165235996246,
+        "word": "singapore",
+        "start": 735,
+        "end": 744
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.6244206428527832,
+        "word": "international rights group",
+        "start": 927,
+        "end": 953
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.577561616897583,
+        "word": "amnesty international",
+        "start": 955,
+        "end": 976
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.6862589120864868,
+        "word": "rights watch",
+        "start": 987,
+        "end": 999
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.30686599016189575,
+        "word": "over two hundred million",
+        "start": 1126,
+        "end": 1150
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.5345643162727356,
+        "word": "all progressives congress",
+        "start": 1395,
+        "end": 1420
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.5872287154197693,
+        "word": "2015",
+        "start": 1443,
+        "end": 1447
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.33441218733787537,
+        "word": "nigeria information",
+        "start": 1449,
+        "end": 1468
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.4102839529514313,
+        "word": "minister",
+        "start": 1469,
+        "end": 1477
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.5824770927429199,
+        "word": "lai mohammed",
+        "start": 1479,
+        "end": 1491
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.43661123514175415,
+        "word": "lai",
+        "start": 1600,
+        "end": 1603
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.5873148441314697,
+        "word": "all progressives congress",
+        "start": 1647,
+        "end": 1672
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.45285138487815857,
+        "word": "media",
+        "start": 1693,
+        "end": 1698
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.29667413234710693,
+        "word": "parliament",
+        "start": 1794,
+        "end": 1804
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.2912866771221161,
+        "word": "90, 000",
+        "start": 1836,
+        "end": 1842
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.27668440341949463,
+        "word": "24 hours",
+        "start": 1861,
+        "end": 1869
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6786776781082153,
+        "word": "november 2019",
+        "start": 1874,
+        "end": 1887
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.7136592268943787,
+        "word": "akon eyakenyi",
+        "start": 1941,
+        "end": 1954
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.31873875856399536,
+        "word": "akwa ibom state",
+        "start": 1971,
+        "end": 1986
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.34002724289894104,
+        "word": "president",
+        "start": 2145,
+        "end": 2154
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.5890971422195435,
+        "word": "muhammad buhari",
+        "start": 2155,
+        "end": 2170
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7170364856719971,
+        "word": "november 2019",
+        "start": 2387,
+        "end": 2400
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.5413273572921753,
+        "word": "aisha buhari",
+        "start": 2429,
+        "end": 2441
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.48677945137023926,
+        "word": "nigeria ' s national mosque in",
+        "start": 2467,
+        "end": 2495
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.295158714056015,
+        "word": "over one billion",
+        "start": 2534,
+        "end": 2550
+      }
+    ],
+    "triples": []
+  },
+  "14": {
+    "entities": [
+      {
+        "entity_group": "PERSON",
+        "score": 0.6059337854385376,
+        "word": "cem korkmaz",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.5366538763046265,
+        "word": "1987 :",
+        "start": 13,
+        "end": 19
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6507499814033508,
+        "word": "1 november 2017",
+        "start": 20,
+        "end": 35
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.20427876710891724,
+        "word": "turkish",
+        "start": 43,
+        "end": 50
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.4943096339702606,
+        "word": "cem kork",
+        "start": 71,
+        "end": 79
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.48080968856811523,
+        "word": "##z",
+        "start": 81,
+        "end": 82
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.25617319345474243,
+        "word": "##rsa",
+        "start": 97,
+        "end": 100
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7089592814445496,
+        "word": "1987",
+        "start": 104,
+        "end": 108
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3955381214618683,
+        "word": "state theatre of",
+        "start": 219,
+        "end": 235
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.2184711992740631,
+        "word": "##rsa",
+        "start": 238,
+        "end": 241
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.41063857078552246,
+        "word": "arog",
+        "start": 298,
+        "end": 302
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6611713171005249,
+        "word": "2008",
+        "start": 304,
+        "end": 308
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.3905801475048065,
+        "word": "recep ived",
+        "start": 311,
+        "end": 321
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.376137912273407,
+        "word": "##ik",
+        "start": 321,
+        "end": 323
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.4338972270488739,
+        "word": "4",
+        "start": 324,
+        "end": 325
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.5951746106147766,
+        "word": "2014",
+        "start": 327,
+        "end": 331
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.29404282569885254,
+        "word": "dig",
+        "start": 334,
+        "end": 337
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.40692567825317383,
+        "word": "##er yarım",
+        "start": 337,
+        "end": 345
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.4812154769897461,
+        "word": "2014",
+        "start": 347,
+        "end": 351
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.4793775677680969,
+        "word": "kiraz mevsimi",
+        "start": 354,
+        "end": 367
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.4831077754497528,
+        "word": "2014",
+        "start": 369,
+        "end": 373
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.29042235016822815,
+        "word": "husband factor",
+        "start": 379,
+        "end": 393
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.4715690016746521,
+        "word": "2015",
+        "start": 395,
+        "end": 399
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7597495913505554,
+        "word": "2013",
+        "start": 463,
+        "end": 467
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.2798074781894684,
+        "word": "mediakraft",
+        "start": 479,
+        "end": 489
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6020768284797668,
+        "word": "end of 2015",
+        "start": 543,
+        "end": 554
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7020094394683838,
+        "word": "february 2015",
+        "start": 620,
+        "end": 633
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3588162362575531,
+        "word": "mediakraft",
+        "start": 656,
+        "end": 666
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6712043285369873,
+        "word": "april 2015",
+        "start": 739,
+        "end": 749
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7188636660575867,
+        "word": "1 november 2017",
+        "start": 796,
+        "end": 811
+      }
+    ],
+    "triples": []
+  },
+  "15": {
+    "entities": [
+      {
+        "entity_group": "ORG",
+        "score": 0.29255715012550354,
+        "word": "world",
+        "start": 331,
+        "end": 336
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.353554904460907,
+        "word": "wide web",
+        "start": 337,
+        "end": 345
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4094168543815613,
+        "word": "semantic web",
+        "start": 401,
+        "end": 413
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5477936267852783,
+        "word": "microformats",
+        "start": 495,
+        "end": 507
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4380210340023041,
+        "word": "xhtml friends network",
+        "start": 520,
+        "end": 541
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.2710900604724884,
+        "word": "hillary clinton",
+        "start": 788,
+        "end": 803
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.3659001588821411,
+        "word": "united states senate",
+        "start": 882,
+        "end": 902
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.28817301988601685,
+        "word": "clinton",
+        "start": 1023,
+        "end": 1030
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.41202864050865173,
+        "word": "semantic web",
+        "start": 1125,
+        "end": 1137
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4076750874519348,
+        "word": "semantic web",
+        "start": 1214,
+        "end": 1226
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.4236139953136444,
+        "word": "eiffel tower",
+        "start": 1383,
+        "end": 1395
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.4165286719799042,
+        "word": "champ de mars",
+        "start": 1409,
+        "end": 1422
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.38443899154663086,
+        "word": "eiffel tower",
+        "start": 1434,
+        "end": 1446
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.6733528971672058,
+        "word": "gustave eiffel",
+        "start": 1466,
+        "end": 1480
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6492341756820679,
+        "word": "##ta browser",
+        "start": 1701,
+        "end": 1711
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.337201327085495,
+        "word": "semantic web",
+        "start": 1727,
+        "end": 1739
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3250460922718048,
+        "word": "browser",
+        "start": 1740,
+        "end": 1747
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.46272385120391846,
+        "word": "semantic web",
+        "start": 1784,
+        "end": 1796
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.40476202964782715,
+        "word": "semantic web architecture",
+        "start": 1798,
+        "end": 1823
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6060774326324463,
+        "word": "html document",
+        "start": 1857,
+        "end": 1870
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5105156302452087,
+        "word": "web",
+        "start": 1898,
+        "end": 1901
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4357715845108032,
+        "word": "servers",
+        "start": 1982,
+        "end": 1989
+      }
+    ],
+    "triples": []
+  },
+  "16": {
+    "entities": [
+      {
+        "entity_group": "MISC",
+        "score": 0.5310851335525513,
+        "word": "internet gis",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3459213376045227,
+        "word": "internet",
+        "start": 17,
+        "end": 25
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.36610373854637146,
+        "word": "geographic information",
+        "start": 26,
+        "end": 48
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4023495316505432,
+        "word": "system ( gis )",
+        "start": 49,
+        "end": 61
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6369194388389587,
+        "word": "internet gis",
+        "start": 218,
+        "end": 230
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6029407978057861,
+        "word": "internet gis",
+        "start": 478,
+        "end": 490
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5418405532836914,
+        "word": "internet gis",
+        "start": 835,
+        "end": 847
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.48242953419685364,
+        "word": "internet",
+        "start": 954,
+        "end": 962
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4201510548591614,
+        "word": "wide",
+        "start": 1040,
+        "end": 1044
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4074380695819855,
+        "word": "internet",
+        "start": 1148,
+        "end": 1156
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5749890804290771,
+        "word": "web",
+        "start": 1169,
+        "end": 1172
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5157677531242371,
+        "word": "##s",
+        "start": 1175,
+        "end": 1176
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4894648492336273,
+        "word": "internet",
+        "start": 1211,
+        "end": 1219
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5491466522216797,
+        "word": "internet",
+        "start": 1327,
+        "end": 1335
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.48616161942481995,
+        "word": "##s",
+        "start": 1338,
+        "end": 1339
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5296411514282227,
+        "word": "internet gis",
+        "start": 1442,
+        "end": 1454
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.47273820638656616,
+        "word": "hospital",
+        "start": 1879,
+        "end": 1887
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5710536241531372,
+        "word": "virtual private network (",
+        "start": 2027,
+        "end": 2052
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5716478824615479,
+        "word": "##n",
+        "start": 2054,
+        "end": 2055
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5196437239646912,
+        "word": "covid - 19 pandemic",
+        "start": 2145,
+        "end": 2162
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5514401197433472,
+        "word": "internet geographic information systems",
+        "start": 2274,
+        "end": 2313
+      }
+    ],
+    "triples": []
+  },
+  "17": {
+    "entities": [
+      {
+        "entity_group": "MISC",
+        "score": 0.3556695580482483,
+        "word": "internet in",
+        "start": 4,
+        "end": 15
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7226669192314148,
+        "word": "1997",
+        "start": 45,
+        "end": 49
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6960856318473816,
+        "word": "1999",
+        "start": 100,
+        "end": 104
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.34187889099121094,
+        "word": "planet computers",
+        "start": 120,
+        "end": 136
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.36945343017578125,
+        "word": "globenet",
+        "start": 141,
+        "end": 149
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.2760017514228821,
+        "word": "english",
+        "start": 292,
+        "end": 299
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.29398348927497864,
+        "word": "nationals",
+        "start": 313,
+        "end": 322
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7385416626930237,
+        "word": "2008",
+        "start": 428,
+        "end": 432
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.3576422929763794,
+        "word": "open",
+        "start": 458,
+        "end": 462
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.40932777523994446,
+        "word": "##net",
+        "start": 462,
+        "end": 465
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.5006834268569946,
+        "word": "initiative (",
+        "start": 466,
+        "end": 478
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.45366087555885315,
+        "word": "oni )",
+        "start": 478,
+        "end": 482
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4061548709869385,
+        "word": "overview for asia",
+        "start": 492,
+        "end": 509
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6471788287162781,
+        "word": "2009",
+        "start": 511,
+        "end": 515
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6062726378440857,
+        "word": "2011",
+        "start": 653,
+        "end": 657
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6493261456489563,
+        "word": "end of 2012",
+        "start": 761,
+        "end": 772
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.5877323746681213,
+        "word": "end of 2012",
+        "start": 1065,
+        "end": 1076
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.5921381115913391,
+        "word": "national internet committee under the",
+        "start": 1082,
+        "end": 1119
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.47772806882858276,
+        "word": "prime minister ' s office",
+        "start": 1120,
+        "end": 1143
+      }
+    ],
+    "triples": []
+  },
+  "18": {
+    "entities": [
+      {
+        "entity_group": "MISC",
+        "score": 0.5846649408340454,
+        "word": "online encyclopedia",
+        "start": 3,
+        "end": 22
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3637566566467285,
+        "word": "an",
+        "start": 36,
+        "end": 38
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4324716329574585,
+        "word": "internet encyclopedia",
+        "start": 39,
+        "end": 60
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.30706754326820374,
+        "word": "encyclopedia",
+        "start": 138,
+        "end": 150
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.27296820282936096,
+        "word": ". com",
+        "start": 150,
+        "end": 154
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6426443457603455,
+        "word": "1998",
+        "start": 161,
+        "end": 165
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3530352711677551,
+        "word": "en",
+        "start": 167,
+        "end": 169
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6850200295448303,
+        "word": "2000 to 2009",
+        "start": 180,
+        "end": 192
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3644077479839325,
+        "word": "wikipedia",
+        "start": 194,
+        "end": 203
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7371646165847778,
+        "word": "2001",
+        "start": 210,
+        "end": 214
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3391403555870056,
+        "word": "##clop",
+        "start": 224,
+        "end": 228
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.45285457372665405,
+        "word": "##ædia britannica",
+        "start": 228,
+        "end": 243
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7415390610694885,
+        "word": "2016",
+        "start": 250,
+        "end": 254
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6995453834533691,
+        "word": "january 1995",
+        "start": 259,
+        "end": 271
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.2367211878299713,
+        "word": "project",
+        "start": 273,
+        "end": 280
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.3263168931007385,
+        "word": "gutenberg",
+        "start": 281,
+        "end": 290
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.369482159614563,
+        "word": "##cl",
+        "start": 336,
+        "end": 338
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.42677006125450134,
+        "word": "##opædia britannica",
+        "start": 338,
+        "end": 355
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.3834403455257416,
+        "word": "11th",
+        "start": 357,
+        "end": 361
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.2414844036102295,
+        "word": "edition",
+        "start": 362,
+        "end": 369
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7717120051383972,
+        "word": "1911",
+        "start": 371,
+        "end": 375
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.24340040981769562,
+        "word": "gutenberg encyclopedia",
+        "start": 511,
+        "end": 533
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3362126052379608,
+        "word": "project gutenberg",
+        "start": 547,
+        "end": 564
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7865906953811646,
+        "word": "september 2018",
+        "start": 632,
+        "end": 646
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.2627275884151459,
+        "word": "project",
+        "start": 649,
+        "end": 656
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.3169342577457428,
+        "word": "gut",
+        "start": 657,
+        "end": 660
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.27482616901397705,
+        "word": "##enberg",
+        "start": 660,
+        "end": 666
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5056352019309998,
+        "word": "1",
+        "start": 755,
+        "end": 756
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.3970431089401245,
+        "word": "lord chamberlain",
+        "start": 759,
+        "end": 775
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.29005497694015503,
+        "word": "luq",
+        "start": 781,
+        "end": 784
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.30597808957099915,
+        "word": "##man",
+        "start": 784,
+        "end": 787
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7623038291931152,
+        "word": "august 9, 2013",
+        "start": 803,
+        "end": 817
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7041324377059937,
+        "word": "2001",
+        "start": 937,
+        "end": 941
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.40511927008628845,
+        "word": "##clopædia britannica",
+        "start": 993,
+        "end": 1012
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.13892145454883575,
+        "word": "eleventh",
+        "start": 1013,
+        "end": 1021
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3157474398612976,
+        "word": "edition",
+        "start": 1022,
+        "end": 1029
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.23179247975349426,
+        "word": "easton",
+        "start": 1205,
+        "end": 1211
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.2603130638599396,
+        "word": "' s bible dictionary",
+        "start": 1211,
+        "end": 1230
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7115967869758606,
+        "word": "1897",
+        "start": 1232,
+        "end": 1236
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.28173011541366577,
+        "word": "christian",
+        "start": 1255,
+        "end": 1264
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.3141856789588928,
+        "word": "classics ethereal library",
+        "start": 1265,
+        "end": 1290
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.4433653652667999,
+        "word": "bartleby",
+        "start": 1345,
+        "end": 1353
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.3700600862503052,
+        "word": "project",
+        "start": 1354,
+        "end": 1361
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3822311758995056,
+        "word": "columbia",
+        "start": 1389,
+        "end": 1397
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.35180601477622986,
+        "word": "encyclopedia",
+        "start": 1398,
+        "end": 1410
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3331214487552643,
+        "word": "sixth edition",
+        "start": 1412,
+        "end": 1425
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6514997482299805,
+        "word": "early 2000",
+        "start": 1430,
+        "end": 1440
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7647609114646912,
+        "word": "1991",
+        "start": 1756,
+        "end": 1760
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4313482642173767,
+        "word": "usenet newsgroup",
+        "start": 1782,
+        "end": 1798
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3010634183883667,
+        "word": "alt.",
+        "start": 1799,
+        "end": 1803
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.208332821726799,
+        "word": "fan",
+        "start": 1803,
+        "end": 1806
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.520564615726471,
+        "word": "douglas - adams",
+        "start": 1807,
+        "end": 1820
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.390937477350235,
+        "word": "project galactic guide",
+        "start": 1829,
+        "end": 1851
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4013144373893738,
+        "word": "hitchhi",
+        "start": 1885,
+        "end": 1892
+      },
+      {
+        "entity_group": "WORK_OF_ART",
+        "score": 0.3153403401374817,
+        "word": "##ker",
+        "start": 1892,
+        "end": 1895
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.2984074056148529,
+        "word": "' s",
+        "start": 1895,
+        "end": 1897
+      },
+      {
+        "entity_group": "WORK_OF_ART",
+        "score": 0.33933523297309875,
+        "word": "guide to the galaxy",
+        "start": 1898,
+        "end": 1917
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.6161322593688965,
+        "word": "douglas adams",
+        "start": 1965,
+        "end": 1978
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.436367005109787,
+        "word": "project galactic guide",
+        "start": 2134,
+        "end": 2156
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.25140056014060974,
+        "word": "1700",
+        "start": 2171,
+        "end": 2175
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6878652572631836,
+        "word": "2000",
+        "start": 2228,
+        "end": 2232
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.4596427083015442,
+        "word": "year",
+        "start": 2246,
+        "end": 2250
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.44806474447250366,
+        "word": "h2g2",
+        "start": 2275,
+        "end": 2279
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7519556283950806,
+        "word": "1993",
+        "start": 2284,
+        "end": 2288
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5103054046630859,
+        "word": "##ia",
+        "start": 2297,
+        "end": 2299
+      }
+    ],
+    "triples": []
+  },
+  "19": {
+    "entities": [
+      {
+        "entity_group": "MISC",
+        "score": 0.6190493106842041,
+        "word": "online optimization",
+        "start": 0,
+        "end": 19
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.39393001794815063,
+        "word": "computer",
+        "start": 71,
+        "end": 79
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.2775088846683502,
+        "word": "science",
+        "start": 80,
+        "end": 87
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3465114235877991,
+        "word": "operations",
+        "start": 92,
+        "end": 102
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.3918055295944214,
+        "word": "research",
+        "start": 103,
+        "end": 111
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5478004217147827,
+        "word": "ski rental",
+        "start": 644,
+        "end": 654
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4751296043395996,
+        "word": "canadian traveller problem",
+        "start": 1300,
+        "end": 1326
+      }
+    ],
+    "triples": []
+  },
+  "20": {
+    "entities": [
+      {
+        "entity_group": "MISC",
+        "score": 0.37706974148750305,
+        "word": "orionv",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.404695600271225,
+        "word": "##m wholesale pty limited",
+        "start": 6,
+        "end": 29
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.463140606880188,
+        "word": "orionv",
+        "start": 42,
+        "end": 48
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.3727096915245056,
+        "word": "##m",
+        "start": 48,
+        "end": 49
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.32404300570487976,
+        "word": "australian",
+        "start": 58,
+        "end": 68
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5132157206535339,
+        "word": "orionvm cloud platform",
+        "start": 316,
+        "end": 338
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6981289386749268,
+        "word": "2011",
+        "start": 401,
+        "end": 405
+      },
+      {
+        "entity_group": "GPE",
+        "score": 0.17777985334396362,
+        "word": "sydney",
+        "start": 455,
+        "end": 461
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.20864996314048767,
+        "word": "australia",
+        "start": 463,
+        "end": 472
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.2668370008468628,
+        "word": "san francisco",
+        "start": 490,
+        "end": 503
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.29241612553596497,
+        "word": "california",
+        "start": 505,
+        "end": 515
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5454564690589905,
+        "word": "orionvm",
+        "start": 517,
+        "end": 524
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.5011022686958313,
+        "word": "sheng yeo",
+        "start": 550,
+        "end": 559
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.6496679782867432,
+        "word": "alex sharp",
+        "start": 561,
+        "end": 571
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.6265747547149658,
+        "word": "joseph glanville",
+        "start": 577,
+        "end": 593
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7476886510848999,
+        "word": "2010",
+        "start": 597,
+        "end": 601
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.6877654194831848,
+        "word": "university of technology, sydney",
+        "start": 693,
+        "end": 725
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.5931901931762695,
+        "word": "university of sydney",
+        "start": 730,
+        "end": 750
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.43257153034210205,
+        "word": "fifteen months",
+        "start": 758,
+        "end": 772
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7041893601417542,
+        "word": "1 april 2011",
+        "start": 865,
+        "end": 877
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6488853693008423,
+        "word": "2011",
+        "start": 882,
+        "end": 886
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.2906937301158905,
+        "word": "australian",
+        "start": 932,
+        "end": 942
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.5864251852035522,
+        "word": "stephen baxter",
+        "start": 985,
+        "end": 999
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.48646870255470276,
+        "word": "american gordon bell of dec",
+        "start": 1004,
+        "end": 1031
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.509671688079834,
+        "word": "microsoft research",
+        "start": 1036,
+        "end": 1054
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.41566959023475647,
+        "word": "orionv",
+        "start": 1072,
+        "end": 1078
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.3251497745513916,
+        "word": "##m",
+        "start": 1078,
+        "end": 1079
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.629899799823761,
+        "word": "2012",
+        "start": 1117,
+        "end": 1121
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.4670286774635315,
+        "word": "australian entrepreneur of the year",
+        "start": 1122,
+        "end": 1157
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6200090050697327,
+        "word": "2013",
+        "start": 1166,
+        "end": 1170
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.5433680415153503,
+        "word": "ernst & young entrepreneur of the year",
+        "start": 1171,
+        "end": 1209
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7157458662986755,
+        "word": "2014",
+        "start": 1214,
+        "end": 1218
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4768886864185333,
+        "word": "orionv",
+        "start": 1220,
+        "end": 1226
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6822341680526733,
+        "word": "2014",
+        "start": 1299,
+        "end": 1303
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.3837621212005615,
+        "word": "iawards",
+        "start": 1304,
+        "end": 1311
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.47622090578079224,
+        "word": "hills yia cloud award",
+        "start": 1345,
+        "end": 1366
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3370499312877655,
+        "word": "stevie",
+        "start": 1400,
+        "end": 1406
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4442916214466095,
+        "word": "infrastructure",
+        "start": 1461,
+        "end": 1475
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.4409133493900299,
+        "word": "australian startup awards",
+        "start": 1493,
+        "end": 1518
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7094500064849854,
+        "word": "2016",
+        "start": 1534,
+        "end": 1538
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.2721174657344818,
+        "word": "forbes",
+        "start": 1572,
+        "end": 1578
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.21069040894508362,
+        "word": "30 under 30 asia list",
+        "start": 1579,
+        "end": 1600
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.5311191082000732,
+        "word": "australian telephone company",
+        "start": 1806,
+        "end": 1834
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.5171176791191101,
+        "word": "aapt bizcloud",
+        "start": 1835,
+        "end": 1848
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3446829915046692,
+        "word": "broker",
+        "start": 1852,
+        "end": 1858
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3841896057128906,
+        "word": "##core",
+        "start": 1865,
+        "end": 1869
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6139411926269531,
+        "word": "orionvm",
+        "start": 1871,
+        "end": 1878
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5247147679328918,
+        "word": "xen",
+        "start": 1888,
+        "end": 1891
+      }
+    ],
+    "triples": []
+  },
+  "21": {
+    "entities": [
+      {
+        "entity_group": "MISC",
+        "score": 0.7192070484161377,
+        "word": "route panorama",
+        "start": 0,
+        "end": 14
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.3418944776058197,
+        "word": "zheng",
+        "start": 115,
+        "end": 120
+      },
+      {
+        "entity_group": "PERSON",
+        "score": 0.45366060733795166,
+        "word": "tsuji",
+        "start": 125,
+        "end": 130
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.48015981912612915,
+        "word": "of",
+        "start": 138,
+        "end": 140
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6476280689239502,
+        "word": "panoramic views",
+        "start": 141,
+        "end": 156
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6876710653305054,
+        "word": "1990",
+        "start": 160,
+        "end": 164
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5163294076919556,
+        "word": "digital",
+        "start": 223,
+        "end": 230
+      }
+    ],
+    "triples": []
+  },
+  "22": {
+    "entities": [
+      {
+        "entity_group": "ORG",
+        "score": 0.714506983757019,
+        "word": "za central registry (",
+        "start": 4,
+        "end": 25
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.6656494140625,
+        "word": "zacr )",
+        "start": 25,
+        "end": 30
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.6831555366516113,
+        "word": "uniforum sa",
+        "start": 50,
+        "end": 61
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.48074302077293396,
+        "word": "profit organisation",
+        "start": 72,
+        "end": 91
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7688512802124023,
+        "word": "1988",
+        "start": 107,
+        "end": 111
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.27525198459625244,
+        "word": "south africa",
+        "start": 165,
+        "end": 177
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.5826454758644104,
+        "word": "za central registry",
+        "start": 183,
+        "end": 202
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.2871935963630676,
+        "word": "south african",
+        "start": 231,
+        "end": 244
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.39241766929626465,
+        "word": "zones",
+        "start": 245,
+        "end": 250
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5285441279411316,
+        "word": "co. za",
+        "start": 260,
+        "end": 265
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.46576663851737976,
+        "word": "web. za",
+        "start": 272,
+        "end": 278
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.373749315738678,
+        "word": "midrand",
+        "start": 308,
+        "end": 315
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.311920166015625,
+        "word": "south africa",
+        "start": 317,
+        "end": 329
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.42542755603790283,
+        "word": "zacr",
+        "start": 335,
+        "end": 339
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.7399749159812927,
+        "word": "africa union commission ( auc )",
+        "start": 365,
+        "end": 394
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.6048839092254639,
+        "word": "dotafrica",
+        "start": 421,
+        "end": 430
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.47630053758621216,
+        "word": "domain",
+        "start": 431,
+        "end": 437
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.4208291172981262,
+        "word": "ic",
+        "start": 441,
+        "end": 443
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.41290274262428284,
+        "word": "##ann",
+        "start": 443,
+        "end": 446
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.394867479801178,
+        "word": "zac",
+        "start": 483,
+        "end": 486
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.5522533059120178,
+        "word": "##r",
+        "start": 486,
+        "end": 487
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.7075950503349304,
+        "word": "za domain name authority (",
+        "start": 516,
+        "end": 542
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.6834921836853027,
+        "word": "zadna )",
+        "start": 542,
+        "end": 548
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.5536169409751892,
+        "word": "south african domain name regulator",
+        "start": 554,
+        "end": 589
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.30068308115005493,
+        "word": ". job",
+        "start": 608,
+        "end": 612
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.34568464756011963,
+        "word": "##urg",
+        "start": 612,
+        "end": 615
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.28048819303512573,
+        "word": "capetown",
+        "start": 618,
+        "end": 626
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.33320093154907227,
+        "word": "durban",
+        "start": 633,
+        "end": 639
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.5112029910087585,
+        "word": "za central registry",
+        "start": 670,
+        "end": 689
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.7010733485221863,
+        "word": "1988",
+        "start": 733,
+        "end": 737
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5084099769592285,
+        "word": "##orum s",
+        "start": 760,
+        "end": 766
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4683970808982849,
+        "word": "open standards",
+        "start": 815,
+        "end": 829
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.6489161252975464,
+        "word": "internet service provider association",
+        "start": 896,
+        "end": 933
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.6261028051376343,
+        "word": "##pa",
+        "start": 937,
+        "end": 939
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4008089005947113,
+        "word": "co",
+        "start": 1003,
+        "end": 1005
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.498913437128067,
+        "word": "za",
+        "start": 1006,
+        "end": 1008
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.29460611939430237,
+        "word": "just",
+        "start": 1203,
+        "end": 1207
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.18262366950511932,
+        "word": "400",
+        "start": 1208,
+        "end": 1211
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3407580554485321,
+        "word": "za",
+        "start": 1236,
+        "end": 1238
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.4743210971355438,
+        "word": "central registry",
+        "start": 1239,
+        "end": 1255
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.2808641195297241,
+        "word": "920 000",
+        "start": 1278,
+        "end": 1285
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.46346330642700195,
+        "word": "za",
+        "start": 1289,
+        "end": 1291
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.5616554021835327,
+        "word": "name registration",
+        "start": 1299,
+        "end": 1316
+      },
+      {
+        "entity_group": "CARDINAL",
+        "score": 0.1811394989490509,
+        "word": "95",
+        "start": 1333,
+        "end": 1335
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.2473333477973938,
+        "word": "singapore meeting",
+        "start": 1548,
+        "end": 1565
+      },
+      {
+        "entity_group": "DATE",
+        "score": 0.6550695896148682,
+        "word": "april 2014",
+        "start": 1569,
+        "end": 1579
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.30744901299476624,
+        "word": "ic",
+        "start": 1634,
+        "end": 1636
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4469869136810303,
+        "word": "##ann registry",
+        "start": 1636,
+        "end": 1648
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.6461619734764099,
+        "word": "##urg",
+        "start": 1696,
+        "end": 1699
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.2943210005760193,
+        "word": "##town",
+        "start": 1708,
+        "end": 1712
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.549067497253418,
+        "word": "za",
+        "start": 1743,
+        "end": 1745
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3521546721458435,
+        "word": "zac",
+        "start": 1811,
+        "end": 1814
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.5819277763366699,
+        "word": "##r",
+        "start": 1814,
+        "end": 1815
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4203835725784302,
+        "word": "web",
+        "start": 1889,
+        "end": 1892
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3957047462463379,
+        "word": "za",
+        "start": 1893,
+        "end": 1895
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.48164552450180054,
+        "word": "2nd level",
+        "start": 1906,
+        "end": 1915
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.29719194769859314,
+        "word": "za",
+        "start": 1942,
+        "end": 1944
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.33333781361579895,
+        "word": "za",
+        "start": 1955,
+        "end": 1957
+      },
+      {
+        "entity_group": "ORG",
+        "score": 0.5768951177597046,
+        "word": "central",
+        "start": 1958,
+        "end": 1965
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.3469645082950592,
+        "word": "registry",
+        "start": 1966,
+        "end": 1974
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.4378759562969208,
+        "word": "za",
+        "start": 1992,
+        "end": 1994
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.508854866027832,
+        "word": "land rush",
+        "start": 2250,
+        "end": 2259
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.25275421142578125,
+        "word": ". africa",
+        "start": 2271,
+        "end": 2278
+      },
+      {
+        "entity_group": "MISC",
+        "score": 0.39460888504981995,
+        "word": "dotafrica",
+        "start": 2279,
+        "end": 2288
+      }
+    ],
+    "triples": []
+  }
+}

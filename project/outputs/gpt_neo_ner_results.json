@@ -1,0 +1,36 @@
+{
+  "GPT-Neo NER Results": {
+    "Baseline (3 epochs)": {
+      "Dev F1": 0.0,
+      "Parameters": "Full model (~125M)"
+    },
+    "Full Fine-Tuning (200 steps)": {
+      "Dev F1": 0.214162942591956,
+      "Best Params": {
+        "learning_rate": 4.8286874395325485e-05,
+        "batch_size": 4
+      },
+      "Parameters": "Full model (~125M)"
+    },
+    "LoRA (200 steps)": {
+      "Dev F1": 0.12066002062564456,
+      "Best Params": {
+        "learning_rate": 0.00025904814349906566,
+        "r": 8,
+        "alpha": 16,
+        "dropout": 0.20472740729579403,
+        "batch_size": 4
+      },
+      "Parameters": "~0.01M trainable"
+    },
+    "Partial Freezing (200 steps)": {
+      "Dev F1": 0.036094877964936406,
+      "Best Params": {
+        "learning_rate": 4.68643894587759e-05,
+        "batch_size": 8,
+        "freeze_pct": 0.49605228016306246
+      },
+      "Parameters": "~63.0M trainable"
+    }
+  }
+}
