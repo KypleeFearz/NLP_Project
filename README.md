@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 ### Setup
 ```bash
-git clone <repository-url>
+git clone https://github.com/KypleeFearz/NLP_Project/tree/main
 cd NLP_Project_DocIE
 pip install -e .
 ```
