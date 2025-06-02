@@ -60,6 +60,8 @@ The DocIE dataset contains document-level information extraction annotations:
 - `notebooks/BERT_RE.ipynb` - BERT Relation Extraction
 - `notebooks/GPT_NER.ipynb` - GPT-Neo Named Entity Recognition  
 - `notebooks/GPT_RE.ipynb` - GPT-Neo Relation Extraction
+- `notebooks/Llama_NER.ipynb` - Llama 2 3B v2 Named Entity Recognition
+- `notebooks/Llama_RE.ipynb` - Llama 2 3B v2 Relation Extraction
 
 ### Source Code
 - `src/data_processing.py` - Data loading and preprocessing utilities
@@ -71,6 +73,7 @@ The DocIE dataset contains document-level information extraction annotations:
 ### Models Evaluated
 - **BERT-base-uncased** (110M parameters)
 - **GPT-Neo-125M** (125M parameters)
+- **openlm-research/open_llama_3b_v2** (3B parameters)
 
 ### Fine-tuning Approaches
 1. **Baseline**: Standard 3-epoch training
@@ -144,6 +147,40 @@ Sentence-level classification between entity pairs.
 3. **LoRA struggles** with smaller datasets and complex tasks
 4. **GPT-Neo baseline fails** for NER, requires fine-tuning
 
+## Data Augmentation
+
+To address the limited size of the original training dataset (51 documents) and improve model generalization, data augmentation techniques were applied [cite: `nlp_final_augmentation.ipynb`]. The following three methods were used:
+
+1. **Entity Swapping**: Replaces 30% of entity mentions with other mentions of the same type and length within the document. This creates variations while maintaining entity type consistency.
+
+2. **Mask and Fill**: Masks non-entity words (within the first 128 words of sentences) and uses BERT (`bert-base-uncased`) to predict replacements. This introduces lexical variations without affecting labeled entities.
+
+3. **Paraphrasing**: Uses GPT-3.5-turbo to rewrite sentences while preserving tagged entities and their meaning. This creates syntactic and stylistic variations while maintaining semantic content.
+
+
+### Dataset Expansion Results
+
+The augmentation process significantly increased the number of training documents, with an overall increase factor of nearly 4x (from 74 original documents across categories to 292 augmented documents).
+
+| Dataset Category | Original Documents | Augmented Documents | Increase Factor |
+|------------------|-------------------|-------------------|----------------|
+| Communication | 10 | 40 | 4x |
+| Government | 9 | 36 | 4x |
+| Entertainment | 12 | 48 | 4x |
+| Energy | 10 | 40 | 4x |
+| Education | 10 | 40 | 4x |
+| Human Behavior | 13 | 51 | ~4x |
+| Internet | 10 | 37 | ~4x |
+| **Total** | **74** | **292** | **~3.95x** |
+
+*Note: The original DocIE training set has 51 documents in total. The table above categorizes a subset of these for illustrating augmentation impact per category, summing to 74 for these categories and 292 after augmentation for these categories. The augmentation was applied to the full set of 51 training documents.*
+
+### Impact of Augmentation on BERT
+
+Training BERT with this augmented data led to the following improvements:
+
+
+
 ## Usage
 
 ### Running Individual Notebooks
@@ -180,23 +217,34 @@ python scripts/create_visualizations.py
 ## Project Timeline
 
 - **April and beginning of May**: Working on failed notebooks
+- **Mid-May**:created the data augmentation notebook and augmented the dataset. This augmented data was then used for subsequent BERT and GPT-Neo runs.
+- **Post-Presentation (late May)**: Following feedback, the Llama 2 3B v2 model was implemented.
 - **Final of May**: Working on new notebooks and finalizing documentation and project paper
 
 
 ## Team Contributions
 
-| Team Member | Responsibilities |
-|-------------|-----------------|
-| Nikola Milosavljevic | • BERT model implementation (NER & RE)<br>• GPT-Neo model implementation (NER & RE)<br>• Hyperparameter optimization with Optuna<br>• Results analysis and visualization<br>• All failed notebooks<br>• Documentation and code cleanup<br>• Paper writing |
+## Team Contributions
+
+| Team Member          | Responsibilities                                                                                                                                                                                                                              |
+| :------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Nikola Milosavljevic | • BERT model implementation (NER & RE)<br>• GPT-Neo model implementation (NER & RE)<br>• Hyperparameter optimization with Optuna for BERT and GPT-Neo<br>• Results analysis and visualization for BERT and GPT-Neo<br>• Initial failed notebooks exploration<br>• Documentation and code cleanup for BERT and GPT-Neo parts<br>• General paper writing and structuring |
+| Youssef Riad         | • Llama 2 3B v2 model implementation (NER & RE)<br>• Hyperparameter optimization with Optuna for Llama<br>• Results analysis and visualization for Llama<br>• Implemented a T5-small model pipeline (not used in final results)<br>• Created and ran data augmentation notebook (with adjustments for GPT and BERT runs)<br>• Documentation for Llama part and data augmentation<br>• Report writing for Llama and data augmentation sections |
 
 ## References
 
-1. DocIE Dataset: [https://xllms.github.io/DocIE/](https://xllms.github.io/DocIE/)
-2. BERT: Devlin et al. (2018)
-3. GPT-Neo: EleutherAI
-4. LoRA: Hu et al. (2021)
-5. Optuna: Akiba et al. (2019)
+## References
+
+1.  **DocIE Dataset**: Sun, K., Lin, C. C., Liu, J., Zhang, Y., Zhao, T., & Lin, C. Y. (2024). *DocIE: A Large-Scale Dataset for Document-Level Information Extraction*. arXiv preprint arXiv:2402.01789. (Or the appropriate conference/publication if available - check the dataset's website: [https://xllms.github.io/DocIE/](https://xllms.github.io/DocIE/))
+2.  **BERT**: Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). *BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding*. arXiv preprint arXiv:1810.04805.
+3.  **GPT-Neo**: Black, S., Biderman, S., Hallahan, E., Anthony, Q., Gao, L., Golding, L., ... & Leahy, C. (2021). *GPT-Neo: Large Scale Autoregressive Language Modeling with Mesh-Tensorflow*. EleutherAI.
+4.  **Llama 2**: Touvron, H., Martin, L., Stone, K., Albert, P., Almahairi, A., Babaei, Y., ... & Lample, G. (2023). *Llama 2: Open Foundation and Fine-Tuned Chat Models*. arXiv preprint arXiv:2307.09288.
+5.  **LoRA**: Hu, E. J., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, Y., Wang, S., ... & Chen, W. (2021). *LoRA: Low-Rank Adaptation of Large Language Models*. arXiv preprint arXiv:2106.09685.
+6.  **Optuna**: Akiba, T., Sano, S., Yanase, T., Ohta, T., & Koyama, M. (2019). *Optuna: A Next-generation Hyperparameter Optimization Framework*. In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining.
+7.  **Transformers (Hugging Face Library)**: Wolf, T., Debut, L., Sanh, V., Chaumond, J., Delangue, C., Moi, A., ... & Rush, A. M. (2019). *HuggingFace's Transformers: State-of-the-art Natural Language Processing*. arXiv preprint arXiv:1910.03771.
+8.  **PEFT (Hugging Face Library)**: Specific citation might vary, often cited via the Hugging Face documentation or the LoRA paper if PEFT is primarily used for LoRA. You can cite the GitHub repository: *PEFT: Parameter-Efficient Fine-Tuning of Billion-Scale Models on Low-Resource Hardware*. (2022). GitHub. Retrieved from [https://github.com/huggingface/peft](https://github.com/huggingface/peft)
+9.  **T5**: Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, P. J. (2019). *Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer*. arXiv preprint arXiv:1910.10683. (If you want to include the T5 model you experimented with).
 
 ## Contact
 
-For questions or issues, please contact nikola.milosavljevic@student.unisg.ch
+For questions or issues, please contact nikola.milosavljevic@student.unisg.ch or Youssef.Riad@student.unisg.ch
