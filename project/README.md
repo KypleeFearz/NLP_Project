@@ -145,10 +145,18 @@ Sentence-level classification between entity pairs.
 | RE   | Partial Freeze | 45.54%       | 2.50%        | 45.54%            | 2.45%               | 45.54%           | 3.24%            | 45.54%     |
 
 ### Key Findings
-1. **BERT significantly outperforms GPT-Neo** on both tasks
-2. **Full fine-tuning** generally achieves best results
-3. **LoRA struggles** with smaller datasets and complex tasks
-4. **GPT-Neo baseline fails** for NER, requires fine-tuning
+- **BERT and Llama 3B significantly outperform GPT-Neo** on both tasks, achieving similar high performance (~88-89% NER, ~50% RE) on original data
+- **GPT-Neo 125M**: Significantly lower baseline performance but shows largest augmentation benefits
+- **GPT-Neo baseline fails completely** for NER (0.00%), demonstrating that fine-tuning is essential for smaller models
+- **Model size correlation**: Larger models (BERT, Llama 3B) demonstrate superior baseline performance compared to smaller models (GPT-Neo 125M)
+
+**Fine-Tuning Method Effectiveness:**
+- **Full fine-tuning generally achieves best results** across all model architectures
+- **LoRA struggles with smaller datasets and complex tasks**:
+  - Inconsistent performance across models (strong for Llama 3B NER: 85.72%, poor for BERT NER: 5.60%)
+  - Shows dramatic improvements with augmentation, particularly for initially poor performers
+- **Baseline Methods**: Reliable for larger models, completely inadequate for smaller models
+- **Partial Freeze**: Mixed and inconsistent results across all architectures
 
 ## Data Augmentation
 
