@@ -4,6 +4,21 @@
 
 This project implements and compares different fine-tuning approaches for Named Entity Recognition (NER) and Relation Extraction (RE) tasks using the DocIE dataset. We evaluate BERT and GPT-Neo models with three fine-tuning strategies: Full Fine-tuning, LoRA, and Partial Freezing.
 
+## Project Structure 
+NLP_Project/
+└── project/
+    ├── Data_Augmentation/
+    │    └──Augmentation/
+    ├── docs/
+    │   ├── exploratory_readme.md
+    │   └── methodology.md
+    ├── notebooks/
+    ├── outputs/
+    │   
+    ├── README.md
+    └── requirements.txt
+
+
 ### Key Results Summary
 - **BERT NER**: Full fine-tuning achieved best F1-score of **89.16%**
 - **BERT RE**: Baseline achieved best F1-score of **50.83%**  
