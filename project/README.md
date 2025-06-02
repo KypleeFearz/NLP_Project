@@ -9,6 +9,8 @@ This project implements and compares different fine-tuning approaches for Named 
 - **BERT RE**: Baseline achieved best F1-score of **50.83%**  
 - **GPT-Neo NER**: Full fine-tuning achieved best F1-score of **21.42%**
 - **GPT-Neo RE**: Full fine-tuning achieved best F1-score of **33.54%**
+- **Llama 2 3B v2 NER**: Baseline/Full FT achieved best F1-score of **88.86%**
+- **Llama 2 3B v2 RE**: Baseline/Full FT achieved best F1-score of **50.00%**
 
 ## Table of Contents
 - [Installation](#installation)
