@@ -125,6 +125,19 @@ Sentence-level classification between entity pairs.
 | RE | LoRA | 29.23% | 25.46% | 34.32% | 34.32% |
 | RE | Partial Freeze | 5.71% | 31.04% | 4.46% | 4.46% |
 
+### llama_3b_v2
+
+| Task | Method         | F1 (micro) | F1 (macro) | Precision (micro) | Precision (macro) | Recall (micro) | Recall (macro) | Accuracy |
+| :--- | :------------- | :----------- | :----------- | :---------------- | :------------------ | :--------------- | :--------------- | :--------- |
+| NER  | Baseline       | 88.86%       | 25.64%       | 88.86%            | 31.63%              | 88.86%           | 27.62%           | 88.86%     |
+| NER  | Full FT        | 88.86%       | 25.64%       | 88.86%            | 31.63%              | 88.86%           | 27.62%           | 88.86%     |
+| NER  | LoRA           | 85.72%       | 12.10%       | 85.72%            | 13.32%              | 85.72%           | 11.87%           | 85.72%     |
+| NER  | Partial Freeze | 84.41%       | 4.07%        | 84.41%            | 5.28%               | 84.41%           | 3.83%            | 84.41%     |
+| RE   | Baseline       | 50.00%       | 2.15%        | 50.00%            | 1.61%               | 50.00%           | 3.23%            | 50.00%     |
+| RE   | Full FT        | 50.00%       | 2.15%        | 50.00%            | 1.61%               | 50.00%           | 3.23%            | 50.00%     |
+| RE   | LoRA           | 32.50%       | 1.61%        | 32.50%            | 1.34%               | 32.50%           | 2.65%            | 32.50%     |
+| RE   | Partial Freeze | 45.54%       | 2.50%        | 45.54%            | 2.45%               | 45.54%           | 3.24%            | 45.54%     |
+
 ### Key Findings
 1. **BERT significantly outperforms GPT-Neo** on both tasks
 2. **Full fine-tuning** generally achieves best results
