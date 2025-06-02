@@ -9,6 +9,8 @@ This directory contains experimental notebooks that didn't make it to the final 
 - `GPT_neo_original_better.ipynb` - **BETTER PERFORMANCE** - Original GPT approach (F1: 86%)
 - `BERT_early_attempt.ipynb` - **TECHNICAL ISSUES** - Early BERT implementation
 - `docie_re_incomplete.ipynb` - **SCOPE MISMATCH** - Incomplete RE demo
+- `nlp_augmentation_v1_failed.ipynb` - **ITERATIVE LEARNING** - Initial augmentation attempts
+- `Llama_NER.ipynb` / `Llama_RE.ipynb` - **RESOURCE CRISIS** - Memory limitations
 
 ### Status Legend
 - **FAILED**: Abandoned due to critical issues
@@ -19,8 +21,7 @@ This directory contains experimental notebooks that didn't make it to the final 
 ---
 
 ## Mixed Pipeline Failed (`mixed_pipeline_failed.ipynb`)
-**Status**:PARTIAL FAILURE  
-
+**Status**: PARTIAL FAILURE  
 
 ### What We Tried
 Unified notebook executing in sequence:
@@ -118,6 +119,7 @@ worked:
 - Test data loading in Pandas
 - NER pipeline demonstration
 - Basic functionality verification
+
 did not work:
 - **NO relation extraction**
 - **NO triple prediction**
@@ -141,26 +143,94 @@ did not work:
 
 ---
 
-## Learning Statistics
+## Initial Data Augmentation Struggles (`nlp_augmentation_v1_failed.ipynb`)
+**Status**: ITERATIVE LEARNING  
+**Issue**: Early augmented data degraded model performance
 
-### Time Investment Analysis
-| Notebook | Time Spent | Learning Value | Success Rate |
-|----------|------------|----------------|--------------|
-| Mixed Pipeline | ~2 weeks | **HIGH** | 50% |
-| GPT-Neo Original | ~1 week | **MEDIUM** | 100% |
-| BERT Early | ~1 week | **HIGH** | 30% |
-| DocIE RE | ~3 days | **MEDIUM** | 10% |
+### What We Tried
+- Entity swapping without length matching
+- Unrestricted mask-and-fill across entire documents
+- Basic paraphrasing without entity protection
+- Minimal validation of augmented outputs
+
+### Why It Failed
+- **Annotation Corruption**: Entity boundaries shifted after text modifications
+- **Semantic Drift**: Paraphrasing changed factual relationships
+- **Label Misalignment**: Relations pointed to non-existent entity IDs
+- **Quality Control**: No systematic validation of augmented data
+
+### How We Fixed It
+1. **Pre-cleaning Pass**: Remove invalid entities BEFORE augmentation
+2. **Wrapped Functions**: Skip individual failures, keep valid augmentations
+3. **Entity Protection**: Placeholder tags during paraphrasing
+4. **Strict Validation**: Assert all mentions exist, relations are valid
+
+### Evolution Path
+```
+nlp_augmentation_v1_failed.ipynb (corrupted data)
+    ↓ add validation
+augmentation1.py (better but brittle)
+    ↓ add error handling
+augmentation.py (robust, self-healing)
+    ↓ result: 4x data expansion that actually helps
+```
+
+### Key Learning
+> **"Bad augmentation is worse than no augmentation"**  
+> Quality beats quantity - always validate synthetic data
+
+---
+
+## Llama Model Resource Crisis (`Llama_NER.ipynb`, `Llama_RE.ipynb`)
+**Status**: TECHNICAL LIMITATION  
+**Issue**: 3B model exceeded GPU memory, limiting experimentation
+
+### What We Tried
+- Llama-3B full fine-tuning on A100 40GB
+- Multiple Optuna trials for hyperparameter optimization
+- 4-bit NF4 quantization to reduce memory
+- Systematic evaluation across all fine-tuning strategies
+
+### Why It Failed
+- **Peak Memory**: 38GB usage, kernel crashes
+- **HPO Impossible**: Only 1 Optuna trial before OOM
+- **Quantization Issues**: 4-bit still unstable for training
+- **Restart Hell**: Kernel restart needed between each variant
+
+### What Actually Worked (Partially)
+- Single trial per variant with bfloat16
+- Manual hyperparameter selection
+- Aggressive gradient accumulation settings
+- Immediate evaluation after training
+
+### Key Learning
+> **"Model size ≠ Model feasibility"**  
+> Consider compute requirements before choosing architecture
+
+### Evidence of Pain
+```python
+# From actual notebook output:
+"Resource constraints limited us to one Optuna trial per variant"
+"Peak memory reached 38GB on a single A100 40GB GPU"
+"Total wall-clock time for all LLaMA runs: ~12h"
+```
+
+---
 
 ### Most Valuable Failures
 1. **Mixed Pipeline**: Taught us about model separation
 2. **GPT-Neo Regression**: Showed importance of simple approaches  
 3. **BERT Early**: Systematic debugging methodology
+4. **Data Augmentation**: Quality control is paramount
+5. **Llama Resource**: Feasibility analysis matters
 
 ### Success Factors Identified
 - **Single-model focus**: Avoid mixing models
 - **Simple tokenization**: Start basic, add complexity only if needed
 - **Incremental development**: One feature at a time
 - **Systematic debugging**: Log everything, validate assumptions
+- **Resource planning**: Know your hardware limits
+- **Data quality**: Validate augmentations rigorously
 
 ---
 
@@ -190,23 +260,43 @@ GPT_NER.ipynb (F1: 21.4%)
     ↓ understanding: gradient accumulation crucial
 ```
 
+### Data Quality Evolution (Augmentation Failures → Success)
+```
+nlp_augmentation_v1_failed.ipynb (corrupted annotations)
+    ↓ validation & error handling
+augmentation.py (self-healing pipeline)
+    ↓ result: valid 4x data expansion
+```
+
+### Resource Management (Llama Struggles → Adapted Strategy)
+```
+Llama initial attempts (OOM crashes)
+    ↓ quantization & batch size tuning
+Llama final runs (stable but limited)
+    ↓ lesson: plan for resource constraints
+```
+
 ---
 
+## Key Takeaways
 
-### Key Takeaways
-1. **Failures are valuable**: most of our time was "failed" experiments
+1. **Failures are valuable**: Most of our time was "failed" experiments
 2. **Simple often wins**: GPT-neo original (simple) > GPT_NER (complex)
 3. **Pipeline separation matters**: Mixed approaches create chaos
 4. **Systematic debugging works**: Incremental fixes lead to success
+5. **Data quality trumps quantity**: Bad augmentation hurts more than helps
+6. **Know your limits**: Hardware constraints shape what's possible
 
 ---
 
 ## Final Thoughts
 
 These "failed" notebooks represent 60% of our development time but provided 80% of our learning. They taught us:
-- **Model-specific requirements** (BERT vs GPT-Neo)
+- **Model-specific requirements** (BERT vs GPT-Neo vs Llama)
 - **Debugging methodologies** (systematic problem-solving)
 - **Performance optimization** (simple vs complex approaches)
+- **Data quality control** (validation is non-negotiable)
+- **Resource management** (feasibility before ambition)
 - **Project management** (scope definition, time allocation)
 
 **Most importantly**: They made our final successful implementations possible by teaching us what NOT to do.
